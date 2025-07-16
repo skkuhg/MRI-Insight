@@ -29,7 +29,7 @@ A modern, elegant web application for uploading, analyzing, and explaining MRI s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/skkuhg/mri-insight.git
+   git clone https://github.com/skkuhg/mri-insight.git](https://github.com/skkuhg/MRI-Insight.git
    cd mri-insight
    ```
 
